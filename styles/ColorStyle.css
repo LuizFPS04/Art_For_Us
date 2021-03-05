@@ -1,0 +1,11 @@
+/* Estilização sobre as Cores em 'Main.html' */
+
+#Assuntos #Cores{
+    width: 900px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+#Assuntos #Cores:hover{
+    border-color: #D9D4C7;
+}

@@ -1,0 +1,53 @@
+/* Estilização sobre o Autor em 'PageAuthor.html' */
+
+#Outros #Autor{
+    width: 20%;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #000000;
+}
+
+#Outros #Autor:hover{
+    border-color: #D9D4C7;
+}
+
+#Outros p{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#Outros h3{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Nova Cut', cursive;
+    font-family: 'Offside', cursive;
+    font-size: 18pt;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 1px 1px #BFADA3;
+    margin: 50px;
+}
+
+#Outros #Obra2{
+    width: 30%;
+    height: 250px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #000000;
+}
+
+#Outros #Obra2:hover{
+    border-color: #D9D4C7;
+}
+
+#Outros #Obra3{
+    width: 30%;
+    height: 300px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #000000;
+}
+
+#Outros #Obra3:hover{
+    border-color: #D9D4C7;
+}
